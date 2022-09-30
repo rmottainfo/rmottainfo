@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <div>
 <a href="https://instagram.com/rmottanet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rmottanet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rmottanet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rmottanet" target="_blank"><img src="http://drive.google.com/uc?export=view&id=11QsOD9NnAeflhyHTACb3tpNLVHVysI2p" width="30" height="30" target="_blank"></a>
 </div>
 
