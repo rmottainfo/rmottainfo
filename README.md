@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/rmotta.info/" target="_blank">
 	<img src="http://drive.google.com/uc?export=view&id=1_L-UTmIB42j2bBOC96imSTbsIJdkMxWz" width="30" height="30">
 </a>
-]<a href="https://www.youtube.com/c/RodrigoMottasuporte" target="_blank">
+<a href="https://www.youtube.com/c/RodrigoMottasuporte" target="_blank">
 	<img src="http://drive.google.com/uc?export=view&id=1F5WruZzJ4TxIk7ZAgTBojhLUpMwX8u0Y" width="30" height="30">
 </a>
 </div>
