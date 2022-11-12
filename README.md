@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I have a space passport. I am a citizen of Earth.
-### Cheers! :beers:
+### A flavors explosion.
+## Cheers! :beers:
 <br/>
 <br/>
 
