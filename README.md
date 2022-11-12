@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 	<a href="https://twitter.com/rmotta_" style="text-decoration: none;" target="_blank">
 		<img src="https://drive.google.com/uc?export=view&id=1ij8n6C9Xn1lu-4i9DARRMnU20U3VaGvp" width="30" height="30">
 	</a>&nbsp;
-	<a href="https://www.youtube.com/c/RodrigoMottanet" style="text-decoration: none;" target="_blank">
+	<a href="https://www.youtube.com/c/RodrigoMottasuporte" style="text-decoration: none;" target="_blank">
 		<img src="http://drive.google.com/uc?export=view&id=10PZcun2YgPTBmBFZhgSmnyE-jXvMLrx6" width="30" height="30">
 	</a>&nbsp;
 	<a href="https://www.linkedin.com/in/rmottanet" style="text-decoration: none;" target="_blank">
