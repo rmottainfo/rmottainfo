@@ -1,6 +1,6 @@
 ### A flavors explosion.
 ## Cheers!
-@ :beers:
+# :beers:
 <br>
 <br>
 
