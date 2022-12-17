@@ -72,4 +72,8 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/rmottanet" style="text-decoration: none;" target="_blank">
 		<img src="https://drive.google.com/uc?export=view&id=1rfIblHP0oim9paZITH9yg5UlH-Dzvmll" width="30" height="30">
 	</a>&nbsp;
+		<a href="https://rmottainfo.blogspot.com" style="text-decoration: none;" target="_blank">
+		<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Blogger.svg" width="30" height="30">
+	</a>&nbsp;
+
 </div>
